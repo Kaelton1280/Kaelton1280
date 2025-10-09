@@ -2,10 +2,9 @@
 <br>
 🖥 Hi, I'm a front-end developer passionate about creating clean and functional interfaces. I have experience in HTML, CSS, and JavaScript, and I'm always looking to improve my skills and learn new technologies. My focus is ensuring a fluid and intuitive user experience, with efficient and organized code.
 <br>
-<p><strong>🎓 DEVCLUB STUDENT🚀.</strong>.<p>
+<p><strong>🎓 DEVCLUB TRAINING🚀.</strong>.<p>
 
 <p><strong>⚡️TECHNOLOGY</strong></p>
-
 <div style="display: flex; gap: 10px;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
