@@ -1,8 +1,8 @@
-:boy: EU SOU KAELTON :libra:
+:boy: I AM KAELTON :libra:
 <br>
-🖥 Olá, sou um desenvolvedor front-end apaixonado por criar interfaces limpas e funcionais. Tenho experiência em HTML, CSS e JavaScript, e estou sempre buscando melhorar minhas habilidades e aprender novas tecnologias. Meu foco é garantir uma experiência de usuário fluida e intuitiva, com código eficiente e organizado.
+🖥 Hi, I'm a front-end developer passionate about creating clean and functional interfaces. I have experience in HTML, CSS, and JavaScript, and I'm always looking to improve my skills and learn new technologies. My focus is ensuring a fluid and intuitive user experience, with efficient and organized code.
 <br>
-🎓 Aluno do DevClub🚀.
+🎓 DevClub Student🚀.
 <br>
 <br>
 
@@ -19,7 +19,7 @@
 <br>
 <br>
 
-:globe_with_meridians: RESES SOCIAIS
+:globe_with_meridians: SOCIAL MEDIA
 <br>
 <a href="https://www.instagram.com/kaeltondias/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
