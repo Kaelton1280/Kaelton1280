@@ -1,6 +1,13 @@
-:boy: I AM KAELTON :libra:
-<br>
-🖥 Hi, I'm a front-end developer passionate about creating clean and functional interfaces. I have experience in HTML, CSS, and JavaScript, and I'm always looking to improve my skills and learn new technologies. My focus is ensuring a fluid and intuitive user experience, with efficient and organized code.
+
+👋 Hi! I'm [Kaelton], passionate about technology, web development, and innovation.
+    
+💻 Student and developer focused on creating modern solutions with HTML, CSS, JavaScript, and current frameworks.
+
+🚀 Always looking to learn more, share knowledge, and collaborate on open source projects.
+
+📚 Active member of DEVCLUB, where I hone my skills and help other devs grow.
+
+🌟 Let's build together? Feel free to connect, contribute, or exchange ideas!
 <br>
 <p><strong>🎓 DEVCLUB TRAINING🚀.</strong>.<p>
 
