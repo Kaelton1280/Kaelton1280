@@ -51,7 +51,7 @@ Att: Kaelton silva dias
 ### Pra conteúdo sobre programação bora de chat nas redes abaixo: 📫 
 
 <a href = "http://diaskaelton@gmail.com" target="_blank" gmail><img src="https://skillicons.dev/icons?i=gmail" />
-<a href ="https://instagram.com/kaeltondias" target="_blank" instagram<img src="https://skillicons.dev/icons?i=instagram" />
+<a href ="https://instagram.com/kaeltondias" target="_blank" instagram><img src="https://skillicons.dev/icons?i=instagram" />
 <img src="https://skillicons.dev/icons?i=linkedin" target="_blank"/>
 
 
