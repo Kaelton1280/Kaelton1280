@@ -50,8 +50,8 @@ Att: Kaelton silva dias
 ##   For more content. 📫 How to reach me:
 ### Pra conteúdo sobre programação bora de chat nas redes abaixo: 📫 
 
-<a href = "http://diaskaelton@gmail.com" target="_blank" gmail><img src="https://skillicons.dev/icons?i=gmail" />
-<a href ="https://instagram.com/kaeltondias" target="_blank" instagram><img src="https://skillicons.dev/icons?i=instagram" />
+<a href = "http://diaskaelton@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"  target="_blank"/>
+<a href ="https://instagram.com/kaeltondias"><img src="https://skillicons.dev/icons?i=instagram"  target="_blank" />
 <img src="https://skillicons.dev/icons?i=linkedin" target="_blank"/>
 
 
