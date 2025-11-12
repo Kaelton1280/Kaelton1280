@@ -47,7 +47,7 @@
  Sou kaelton e estou em transição de carreira aprimorando minhas hard e front skills buscando a excelência! Tenho habilidades em Javascript, React com vite, yarn e npm(node), Html5, bem como projetos de página uníca, versionamento com Git e Github
 Att: Kaelton silva dias
 ![](lineBar.png)
-##   For more content. 📫 How to reach me:
+ ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me:
 ### Pra conteúdo sobre programação bora de chat nas redes abaixo: 📫 
 
 <a href = "http://diaskaelton@gmail.com"  target="_blank"><img src="https://skillicons.dev/icons?i=gmail"  target="_blank"/>
