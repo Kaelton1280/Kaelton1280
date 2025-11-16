@@ -1,4 +1,4 @@
-### Welcome to Kaelto'n github page👋
+### Welcome to Kaelto'n github page <img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af0-910c-c37f35f2e210.gif" width="45px" height="45px">
 ## Bem-vindo(a) ao perfil do Kaelton⚡
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=32&duration=4991&pause=1&color=449deb63&background=FFFFFF00&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=verdadeiro&width=720&lines=+Hey+There!+My+name+is+Kaelton!+%F0%9F%91%8B;Im+Developer+Front-End.;Call+me+to+partnership%F0%9F%91%8B)](https://git.io/typing-svg)
 <p> As <a href="http://www.brainyquote.com/quotes/authors/c/confucius.html"><cite>Confucius</cite></a> once said:</p>
