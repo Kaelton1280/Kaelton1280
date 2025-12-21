@@ -52,6 +52,7 @@ Att: Kaelton silva dias
 
 <a href = "http://diaskaelton@gmail.com"  target="_blank"><img src="https://skillicons.dev/icons?i=gmail"  target="_blank"/>
 <a href ="https://instagram.com/kaeltondias"  target="_blank"><img src="https://skillicons.dev/icons?i=instagram"  target="_blank" />
-<img src="https://skillicons.dev/icons?i=linkedin" target="_blank"/>
+<a href =
+"http://linkedin.com/in/kaelton-silva-dias" target="_blank"/><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"/>
 
 
